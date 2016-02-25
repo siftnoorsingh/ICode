@@ -22,6 +22,8 @@ In Progress
 * ThinksterIO - MEAN stack
 * ScotchIO - MEAN Stack
 * Dataquest
+* HackerRank
+* ProjectEuler
 
 Future Work
 -----------------------------------
@@ -32,4 +34,9 @@ Future Work
 * Algorithms (http://interactivepython.org/runestone/static/pythonds/index.html#)
 * Algorithms (http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * Kaggle Projects
+* Spark (http://www.sparktutorials.net/tutorials)
+* Spark (http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/tree/master/)
+* AmpCampSpark (http://ampcamp.berkeley.edu/big-data-mini-course/)
+* Haskell (http://learnyouahaskell.com/chapters)
+* Prolog (http://www.learnprolognow.org/lpnpage.php?pageid=online)
 
