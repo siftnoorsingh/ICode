@@ -29,7 +29,7 @@ Future Work
 -----------------------------------
 * Machine Learning (https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * Machine Learning (http://nealcaren.github.io/python-tutorials/)
-* PythonProgramming.net
+* Python, Flask, Django, Machine Learning (pythonprogramming.net)
 * Pandas (https://bitbucket.org/hrojas/learn-pandas)
 * Algorithms (http://interactivepython.org/runestone/static/pythonds/index.html#)
 * Algorithms (http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
