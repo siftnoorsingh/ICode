@@ -39,4 +39,5 @@ Future Work
 * AmpCampSpark (http://ampcamp.berkeley.edu/big-data-mini-course/)
 * Haskell (http://learnyouahaskell.com/chapters)
 * Prolog (http://www.learnprolognow.org/lpnpage.php?pageid=online)
+* Flask (https://github.com/realpython/discover-flask)
 
