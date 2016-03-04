@@ -21,7 +21,7 @@ In Progress
 * NodeSchool - NodeJS(learnyounode)
 * ThinksterIO - MEAN stack
 * ScotchIO - MEAN Stack
-* Dataquest
+* Dataquest - Machine Learning
 * HackerRank
 * ProjectEuler
 
@@ -35,7 +35,7 @@ Future Work
 * Algorithms (http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * Kaggle Projects
 * Spark (http://www.sparktutorials.net/tutorials)
-* Spark (http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/tree/master/)
+* Spark and sklearn (http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/tree/master/)
 * AmpCampSpark (http://ampcamp.berkeley.edu/big-data-mini-course/)
 * Haskell (http://learnyouahaskell.com/chapters)
 * Prolog (http://www.learnprolognow.org/lpnpage.php?pageid=online)
