@@ -40,4 +40,4 @@ Future Work
 * Haskell (http://learnyouahaskell.com/chapters)
 * Prolog (http://www.learnprolognow.org/lpnpage.php?pageid=online)
 * Flask (https://github.com/realpython/discover-flask)
-
+* Web Dev ( www.thenewboston.com Video Tutorials)
