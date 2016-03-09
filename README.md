@@ -15,13 +15,14 @@ Completed
 * Codeschool - Shaping Up with Angular
 * ScalaSchool - Scala (http://twitter.github.io/scala_school/)
 * edX - Introduction to Big Data with Apache Spark
+* Dataquest - Python,Working with Large Datasets(Spark),Data Analysis
 
 In Progress
 -----------------------------------
 * NodeSchool - NodeJS(learnyounode)
 * ThinksterIO - MEAN stack
 * ScotchIO - MEAN Stack
-* Dataquest - Machine Learning
+* Dataquest - Machine Learning and Data Analysis libraries
 * HackerRank
 * ProjectEuler
 
