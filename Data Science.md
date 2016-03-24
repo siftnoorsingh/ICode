@@ -1,8 +1,8 @@
 
 Python
 --------------------
-*Codecademy - Done
-*Dataquest - To be completed
+#Codecademy - Done
+#Dataquest - To be completed
 
 Pandas
 -------------------
