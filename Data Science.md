@@ -73,4 +73,5 @@ Web Scraping
 
 Cheat Sheets
 ---------------------------
-* https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M
+* https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M - Python, Pandas and Matplotlib
+* 
