@@ -67,7 +67,8 @@ Spark
 Web Scraping
 ------------------------
 
-* Dataquest
+* Dataquest - Done
+* https://www.crummy.com/software/BeautifulSoup/bs4/doc/ - Done
 * http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb
 * 
 
