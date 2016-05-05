@@ -20,12 +20,12 @@ Pandas
 Matplotlib
 -----------------------
 
-* Dataquest - FutureWork
+* Dataquest - Done
 
 Seaborn
 --------------------
 
-* Dataquest - FutureWork
+* Dataquest - Done
 * http://stanford.edu/~mwaskom/software/seaborn/tutorial.html
 
 Sci-kit Learn
@@ -34,7 +34,7 @@ Sci-kit Learn
 * Machine Learning with sklearn(Jake VanderPlaas) - Done
 * Udacity - Intro to Machine Learning - Done
 * http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html - Done
-* Dataquest - FutureWork
+* Dataquest - In progress
 * http://sebastianraschka.com/Articles/2014_scikit_dataprocessing.html - FutureWork
 * https://github.com/justmarkham/gadsdc1/blob/master/logistic_assignment/kevin_logistic_sklearn.ipynb
 * https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
@@ -43,7 +43,7 @@ Sci-kit Learn
 Natural Language Processing
 -------------------------------------
 
-* Dataquest - FutureWork
+* Dataquest - In Progress
 * https://de.dariah.eu/tatom/ - FutureWork
 * http://nbviewer.jupyter.org/github/douglasstarnes/pyohio14/blob/master/NaturalLanguageToolkit.ipynb - FutureWork
 * http://fbkarsdorp.github.io/python-course/ - 
